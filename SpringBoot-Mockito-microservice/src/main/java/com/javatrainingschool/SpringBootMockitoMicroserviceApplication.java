@@ -8,7 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootMockitoMicroserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMockitoMicroserviceApplication.class, args);
+		/*
+		 * SpringApplication.run(SpringBootMockitoMicroserviceApplication.class, args);
+		 */
+		//somil dubey
 	}
 
 }
